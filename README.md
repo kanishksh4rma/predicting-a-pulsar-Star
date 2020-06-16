@@ -12,6 +12,17 @@ rotate rapidly, this pattern repeats periodically. Thus pulsar search involves l
 Machine learning tools are now being used to automatically label pulsar candidates to facilitate rapid analysis. Classification systems in particular are being widely adopted,
 which treat the candidate data sets as binary classification problems. Here the legitimate pulsar examples are a minority positive class, and spurious examples the majority negative class.
 
+
+## Algorithms Used
+
+The Algorithms used are : 
+
+	* decision tree
+	* kNN
+	* kMeans clustering
+	* RandomForestClassifier
+
+
 # About Dataset
 ---
 The data set shared here contains 16,259 spurious examples caused by RFI/noise, and 1,639 real pulsar examples. These examples have all been checked by human annotators.

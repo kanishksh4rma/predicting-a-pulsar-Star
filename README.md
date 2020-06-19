@@ -1,7 +1,5 @@
 # PREDICTING A PULSAR STAR
 ---
-HTRU2 is a data set which describes a sample of pulsar candidates collected during the High Time Resolution Universe Survey .
-
 Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of considerable scientific interest as probes of space-time, the inter-stellar medium, and states of matter .
 
 As pulsars rotate, their emission beam sweeps across the sky, and when this crosses our line of sight, produces a detectable pattern of broadband radio emission. As pulsars

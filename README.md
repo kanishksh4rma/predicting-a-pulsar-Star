@@ -31,6 +31,8 @@ The Algorithms used are :
 
 ![Screenshot 3](/screenshots/ss3.png)
 
+![Screenshot 4](/screenshots/ss4.png)
+
 ---
 
 # About Dataset

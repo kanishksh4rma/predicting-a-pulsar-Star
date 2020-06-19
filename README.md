@@ -23,6 +23,16 @@ The Algorithms used are :
 	* RandomForestClassifier
 
 
+## Screenshots
+
+![Screenshot 1](/screenshots/ss1.png)
+
+![Screenshot 2](/screenshots/ss2.png)
+
+![Screenshot 3](/screenshots/ss3.png)
+
+---
+
 # About Dataset
 ---
 The data set shared here contains 16,259 spurious examples caused by RFI/noise, and 1,639 real pulsar examples. These examples have all been checked by human annotators.
